@@ -1,0 +1,59 @@
+body{
+    background-color: rgb(214, 205, 235);
+}
+
+.display{
+    margin-top:10%;
+    background-color: white;
+    width:20%;
+}
+
+.textview{
+    background-color: rgb(248, 248, 248);
+    border:none;
+    height:40px;
+    width:200px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    text-align: right;
+}
+
+.grayButton{
+    font-size: 20px;
+    height:50px;
+    width:50px;
+    background-color: rgba(227, 227, 235, 0.993);
+    border-radius: 30px;
+    border:none;
+}
+
+.skyBlueButton{
+    font-size: 20px;
+    height:50px;
+    width:50px;
+    background-color: rgba(193, 238, 241, 0.993);
+    border-radius: 30px;
+    border:none;
+}
+
+
+.equalButton{
+    font-size: 20px;
+    height:50px;
+    width:50px;
+    background-color: rgba(126, 105, 248, 0.993);
+    border-radius: 30px;
+    border:none;
+}
+
+
+
+.button{
+    font-size: 20px;
+    height:50px;
+    width:50px;
+    background: none;
+    border:none;
+    
+}
+
